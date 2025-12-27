@@ -1,0 +1,43 @@
+{
+  "name": "Convert Freely - Free Online Image, PDF & Text Converter Tools",
+  "short_name": "Convert Freely",
+  "description": "Convert Freely offers 100% free online tools to convert, resize, compress, and manage images, PDFs, and text. Use fast browser-based converters for JPG, PNG, WEBP, PDF, and more — no signup needed.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#ff2d20",
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/media/favicon/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/media/favicon/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/media/favicon/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/media/favicon/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/media/favicon/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+types {
+    application/javascript js mjs;
+    application/wasm wasm;
+    text/javascript js mjs;
+}
